@@ -51,7 +51,7 @@ public class ProductoPlato {
     public float calcVenta(Product p) {
         float venta = 0;
 
-        venta = costoPlato(p) * p.getPlato();
+        venta = costoPlato(p) * p.getNum_plato();
 
         return venta;
     }
