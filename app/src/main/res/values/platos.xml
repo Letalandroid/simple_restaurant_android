@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="platos">
+        <item>Elegir</item>
+        <item>Ceviche</item>
+        <item>Chupe de cangrejo</item>
+        <item>Arroz a la cubana</item>
+        <item>Lomo saltado</item>
+    </string-array>
+</resources>
